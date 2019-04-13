@@ -3,21 +3,26 @@
     válidos, e um para os ips inválidos.
 
 2. Crie um programa que valide uma senha.
+    Obs : a senha deve estar definida dentro do código, e só deve ser
+          aceita quando digitada da mesma forma.
+    Ex:
+        Senha : 122Alo
+        Entrada : 122Alo
+        Saída : Permissão negada
 
 3. Crie um programa contador de palavras, sem acentos ou caracteres
     especiais.
+    Obs : usar o texto do arquivo texto-prob3.txt por motivos de facilidade...
+          ou não se quiser usar outro.
 
-4. Crie um programa que pegue dados de mais contas online e as agrupe,
-    e salve em um arquivo de texto.
+4. Crie um programa que embaralha as letras de uma palavra.
 
-5. Crie um programa que embaralha as letras de uma palavra.
+5. Crie um programa que gere 18 números aleatórios 4 linhas.
 
-6. Crie um programa que gere 18 números aleatórios 4 linhas.
-
-7. Crie um programa que gere 18 números aleatórios entre si (ou seja,
+6. Crie um programa que gere 18 números aleatórios entre si (ou seja,
     sem repetir número).
 
-8. Implemente as funções que faltam no fake_crud de acordo com as
+6. Implemente as funções que faltam no fake_crud de acordo com as
     instruções no arquivo.
 
 Mais problemas para você praticar :
