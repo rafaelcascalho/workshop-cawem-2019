@@ -18,3 +18,5 @@ if novo_nome in nomes:
     nomes.remove(novo_nome)
 else:
     nomes.append(novo_nome)
+    
+print(nomes)
