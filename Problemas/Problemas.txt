@@ -1,19 +1,33 @@
-1. Validador de IPs : crie um programa que leia um json ou um txt e 
-    escreva como saída dois arquivos de texto/json : um para os ips
-    válidos, e um para os ips inválidos.
+1. Faça um programa que diga se um número ou palavra é palíndromo(a).
+    Obs : paníndromo é um número ou string que lido de trás pra frente
+          é igual quando lido normalmente.
+         -----------------------------
+        | Entradas |      Saídas      |
+        |----------|------------------|
+        |  123321  |   palindromo     |
+        |  98      | não é palíndromo |
+        |  121     |   palindromo     |
+         -----------------------------
 
 2. Crie um programa que valide uma senha.
     Obs : a senha deve estar definida dentro do código, e só deve ser
           aceita quando digitada da mesma forma.
-    Ex:
-        Senha : 122Alo
-        Entrada : 122Alo
-        Saída : Permissão negada
+    Ex:  Senha : 122Alo
+         -----------------------------
+        | Entradas |      Saídas      |
+        |----------|------------------|
+        | 122alo   | acesso negado    |
+        | 1882391  | acesso negado    |
+        | 122Alo   | acesso permitido |
+         -----------------------------
 
-3. Crie um programa contador de palavras, sem acentos ou caracteres
-    especiais.
-    Obs : usar o texto do arquivo texto-prob3.txt por motivos de facilidade...
-          ou não se quiser usar outro.
+3. Crie um programa que embaralha as letras de uma palavra.
+         --------------------------
+        | Entradas |    Saídas     |
+        |----------|---------------|
+        |  Rafael  |   leafaR      |
+        |  banana  |    ananab     |
+         --------------------------
 
 4. Crie um programa que embaralha as letras de uma palavra.
 
@@ -22,8 +36,31 @@
 6. Crie um programa que gere 18 números aleatórios entre si (ou seja,
     sem repetir número).
 
-6. Implemente as funções que faltam no fake_crud de acordo com as
+7. Validador de IPs : crie um programa que leia um json ou um txt e 
+    escreva como saída dois arquivos de texto/json : um para os ips
+    válidos, e um para os ips inválidos.
+
+8. Crie as funções que faltam no arquivo 'alunos.py'.
+
+9. Criar um pequeno jogo de adivinhação de nomes.
+    Obs : O jogo deve permitir que o usuário escolha um nome,
+          como em uma rifa, e o jogo deve informar se ele ganhou ou
+          não.
+
+10. Crie um programa contador de palavras, sem acentos ou caracteres
+    especiais.
+    Arquivos : texto-prob3.txt, einstein.txt
+
+11. Criar um pequeno jogo de adivinhação de nomes.
+    Obs : O jogo deve permitir que o usuário escolha um nome,
+          como em uma rifa, e o jogo deve informar se ele ganhou ou
+          não.
+
+12. Implemente as funções que faltam no fake_crud de acordo com as
     instruções no arquivo.
+    Obs : as simulações devem ser implementadas com escrita e leitura
+          de arquivos.
+
 
 Mais problemas para você praticar :
 - https://www.practicepython.org/
