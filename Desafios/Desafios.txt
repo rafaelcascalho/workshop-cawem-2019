@@ -1,0 +1,21 @@
+1. Crie um programa que criptografe e descriptografe uma frase
+    usando o algoritmo da cifra de césar.
+    
+    Entrada de teste : "xifo efcvhhjoh, opwjdft jotfsu dpssfdujwf dpef; 
+                        fyqfsut sfnpwf efgfdujwf dpef. sjdibse qbuujt"
+    Número de casas : 1
+
+    Links úteis : 
+    http://clubedosgeeks.com.br/sem-categoria/cifra-de-cesar-criptografia-monoalfabetica
+    http://www.codifica.ibict.br/
+
+
+2. Crie um contador que fale a(s) palavra(s) que mais aparecem em
+    um texto, com o número de ocorrências de cada uma.
+    Obs : o texto possui acentos e pontuações.
+
+3. Crie um produtor e um consumidor sem usar threads.
+
+4. Crie um programa que envie um sms usando a API da plataforma twilio.
+
+5. 

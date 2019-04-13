@@ -1,0 +1,26 @@
+1. Validador de IPs : crie um programa que leia um json ou um txt e 
+    escreva como saída dois arquivos de texto/json : um para os ips
+    válidos, e um para os ips inválidos.
+
+2. Crie um programa que valide uma senha.
+
+3. Crie um programa contador de palavras, sem acentos ou caracteres
+    especiais.
+
+4. Crie um programa que pegue dados de mais contas online e as agrupe,
+    e salve em um arquivo de texto.
+
+5. Crie um programa que embaralha as letras de uma palavra.
+
+6. Crie um programa que gere 18 números aleatórios 4 linhas.
+
+7. Crie um programa que gere 18 números aleatórios entre si (ou seja,
+    sem repetir número).
+
+8. Implemente as funções que faltam no fake_crud de acordo com as
+    instruções no arquivo.
+
+Mais problemas para você praticar :
+- https://www.practicepython.org/
+- https://www.udemy.com/python-handon/
+- https://www.hackerrank.com/domains/python
